@@ -1,13 +1,16 @@
 <h1>Labour Predictor</h1>
-This ML project will help you to predict witch will be your next task at work.
+This ML project will help you to predict which will be your next task at work.
 
 <h2>Pre-requirements</h2>
-<ul><li>numpy</li>
+<ul>
+<li>Python</li>
+<li>numpy</li>
 <li>scipy</li>
 <li>pandas</li>
 <li>matplotlib</li>
 <li>seaborm</li>
-<li>sklearn</li></ul>
+<li>sklearn</li>
+</ul>
 
 <h2>Using the predictor</h2>
 On the "person" variable you must establish the task (e.g: finance, management, logistics and get work). Later you must define witch day of the week you use to perform that task.
