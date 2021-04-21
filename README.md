@@ -1,4 +1,4 @@
-<h1>Labour Predictor</h1>
+#Labour Predictor
 This ML project will help you to predict which will be your next task at work.
 
 <h2>Pre-requirements</h2>
